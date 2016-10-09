@@ -25,3 +25,17 @@ atom-text-editor[mini] {
     }
   }
 }
+
+.scrollbars-visible-always /deep/ ::-webkit-scrollbar {
+  width: 5px;
+  height: 10px;
+
+  &-track {
+    border-radius: 5px;
+  }
+
+  &-thumb {
+    background-color: rgba(255, 235, 1, 0.4);
+    border-radius: 5px;
+  }
+}

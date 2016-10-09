@@ -1,13 +1,16 @@
 {
-  "name": "ui-theme-template",
+  "name": "prrajis-ui",
   "theme": "ui",
-  "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "version": "0.5.0",
+  "description": "A dark UI terminal theme",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "terminal",
+    "matrix",
+    "dark"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "repository": "git@github.com:RAJESHI2IT/ui-theme-template.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
